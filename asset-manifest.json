@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/persian_todo_react-app/static/js/main.4e2b402b.chunk.js",
+    "main.js.map": "/persian_todo_react-app/static/js/main.4e2b402b.chunk.js.map",
+    "runtime-main.js": "/persian_todo_react-app/static/js/runtime-main.9a4cf011.js",
+    "runtime-main.js.map": "/persian_todo_react-app/static/js/runtime-main.9a4cf011.js.map",
+    "static/js/2.0b3d642d.chunk.js": "/persian_todo_react-app/static/js/2.0b3d642d.chunk.js",
+    "static/js/2.0b3d642d.chunk.js.map": "/persian_todo_react-app/static/js/2.0b3d642d.chunk.js.map",
+    "index.html": "/persian_todo_react-app/index.html",
+    "static/js/2.0b3d642d.chunk.js.LICENSE.txt": "/persian_todo_react-app/static/js/2.0b3d642d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a4cf011.js",
+    "static/js/2.0b3d642d.chunk.js",
+    "static/js/main.4e2b402b.chunk.js"
+  ]
+}
